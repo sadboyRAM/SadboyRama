@@ -1,11 +1,11 @@
-### Moshi Moshi~ I'm ANKER
+### Moshi Moshi~ I'm SAD 
 
 <details>
  <summary>🍙 Help me!</summary>
  
- [Saweria](https://saweria.co/darkbot2412)
+ [Saweria](wa.me/)
 
- [Gopay](https://wa.me/6281368646011)
+ [Gopay](https://wa.me/62)
  
 </details>
 </div>
@@ -23,7 +23,7 @@
 ## Information
 - Change vcard contacts on [this section](https://github.com/4NK3R-PRODUCT1ON/bot-wea-v3/blob/main/anker.js#L102)
 - Change Options on [this file](https://github.com/4NK3R-PRODUCT1ON/bot-wea-v3/blob/main/options/option.json)
-- Change menu on [this folders](https://github.com/4NK3R-PRODUCT1ON/bot-wea-v3/tree/main/database/menu)
+
 
 ---
 
